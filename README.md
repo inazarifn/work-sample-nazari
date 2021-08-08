@@ -1,4 +1,4 @@
 # work-sample-nazari
-Hello welcom!
+Hello welcome!
 I have a work sample
 I used html and css in it:)
