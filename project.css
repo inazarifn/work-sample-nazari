@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-image: url(h.png);
+    background-size: cover;
+    background-repeat: no-repeat, repeat;
+    background-size:100%;
+    
+}
+
+.menu{
+   margin-left: 70px;
+   font-size:22px;
+    margin-top: 50px;
+ 
+    
+    
+    
+    
+}
+
+
+a:link{
+    
+    color:white;
+    text-decoration: none;
+}
+
+a:visited {
+    
+    color:white;
+     text-decoration: none;
+
+}
+
+a:hover{
+     color: lightblue;
+     text-decoration: none;
+
+}
+
+a:active{
+    
+    color:mediumvioletred;
+   text-decoration: none;
+}
+
+ul, ol{
+    
+    word-spacing: 30px;
+}
+
+#w1{
+    
+    color: white;
+    margin-left: 28%;
+    margin-top: 12%;
+    font-size:40px;
+    font-family:cursive;
+    text-shadow:2px 2px black;
+    
+}
+#w2{
+    color: white;
+    font-family:cursive;
+    margin-left: 36%;
+    margin-top: 3%;
+    font-size: 23px;
+    
+    
+} 
+
+
+.login{
+    background-color:darkturquoise;
+    border-color: aqua;
+    padding: 5px;
+    margin-left:600px;
+    font-size: 15px;
+    font-family: sans-serif;
+    
+}
+.sign-up{
+    background-color:darkturquoise;
+    border-color: aqua;
+    padding: 5px;
+    margin-left: 0px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+   
+    
+    
+    
+
+
+
+
+
+
+.input{
+  padding: 10px;
+  background: #eee;
+    border: 1px solid #ddd;
+    border-radius: 0 5px 5px 0;
+    margin-left: 41%;
+    margin-top: 3%;
+    
+}
+
+
+
+.button{
+ padding: 10px 15px;
+ background: #0099ff;
+ border: 1px solid #0099ff;
+ color: white;
+ position: relative;
+  left: 0px;
+ border-left: none;
+ border-radius: 5px 0 0 5px;
+ font-weight: bold;
+ cursor: pointer;
+        
+    }
+
+ 
+p{
+    font-family:cursive;
+    font-size:15px;
+}
+    
+    
+
+
+.footer{
+    
+    background-color:white;
+}
+
+.contact{
+    
+margin-left:40%;
+font-size:18px;
+    
+}
+
+.demo{
+    
+    margin-left:43%;
+    margin-top:1px;    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
